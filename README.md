@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KemiDoyin
+##### 👋 Hi, I’m @KemiDoyin
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning Javascript and utilizing Freecodecamp and Frontend Mentor
 - 💞️ I’m looking to collaborate on Frontend Projects and ideas.
