@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning Javascript and utilizing Freecodecamp and Frontend Mentor
 
-- :computer: You can view my portfolio here - https://kemiadedoyin-ka.netlify.app/
+- :computer: You can view my portfolio here - https://kemidoyin.github.io/My-Portfolio-with-React
 
 
 ---
