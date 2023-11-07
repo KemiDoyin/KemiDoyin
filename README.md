@@ -20,10 +20,7 @@
 ---
   
 ---
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KemiDoyin&layout=compact)](https://github.com/KemiDoyin/github-readme-stats)
-  
-  
-  ![Kemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KemiDoyin&show_icons=true&theme=buefy)
+ 
 
 <!---
 KemiDoyin/KemiDoyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
